@@ -1,8 +1,8 @@
 SITE NAME,CHRONOLOGY,SITE TYPE,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,URL,LATITUDE,LONGITUDE
 "Papa Stour, Tiptans",Neolithic / Bronze Age,Stone Circle,,416680,1159660,SHETLAND ISLANDS,http://canmore.org.uk/site/215,60.32069,-1.6998527
 Ring Of Brodgar,Neolithic / Bronze Age,Stone Circle,"Henge (Neol/bronze Age), Rune Inscribed Stone (Norse), ",329450,1013350,ORKNEY ISLANDS,http://canmore.org.uk/site/1696,59.001404,-3.2297693
-Stones Of Stenness,Neolithic / Bronze Age,Stone Circle,"Henge (Neol/bronze Age), ",330670,1012520,ORKNEY ISLANDS,http://canmore.org.uk/site/2105,58.994152,-3.2082776
-"St Kilda, Boreray, Taigh Stallair",Neolithic / Bronze Age,Stone Circle, ,15250,905050,WESTERN ISLES,http://canmore.org.uk/site/3969,57.868448,-8.4929027
+Stones Of Stenness,Neolithic / Bronze Age,Stone Circle,"Henge (Neol/bronze Age)",330670,1012520,ORKNEY ISLANDS,http://canmore.org.uk/site/2105,58.994152,-3.2082776
+"St Kilda, Boreray, Taigh Stallair",Neolithic / Bronze Age,Stone Circle,,15250,905050,WESTERN ISLES,http://canmore.org.uk/site/3969,57.868448,-8.4929027
 "Lewis, Loch Seaforth",Neolithic / Bronze Age,Stone Circle,"Blackhouse (Post Medieval), Flint Scatter (Prehistoric), , Scraper (Tool)(S), Unidentified Pottery(S)",127810,916620,WESTERN ISLES,http://canmore.org.uk/site/4135,58.054845,-6.6156655
 "Lewis, Garynahine, Airidh Nam Bidearan, 'tursachan'",Neolithic / Bronze Age,Stone Circle,,123420,929890,WESTERN ISLES,http://canmore.org.uk/site/4143,58.170916,-6.7054585
 "Lewis, Callanish",Neolithic / Bronze Age,Stone Circle,"Avenue, Chambered Cairn (Neolithic), Stone Row(S) (Neol/bronze Age)",121300,933017,WESTERN ISLES,http://canmore.org.uk/site/4156,58.197573,-6.7451084
@@ -12,7 +12,7 @@ Stones Of Stenness,Neolithic / Bronze Age,Stone Circle,"Henge (Neol/bronze Age),
 "Lewis, Druim Nan Eum",Neolithic / Bronze Age,Stone Circle,"Quarry (Period Unassigned)",122970,933620,WESTERN ISLES,http://canmore.org.uk/site/4172,57.981744,-4.5891008
 "Lewis, South Shawbost, Cnoc Laoiran",Neolithic / Bronze Age,Stone Circle,,123300,946100,WESTERN ISLES,http://canmore.org.uk/site/4209,58.010596,-4.4008992
 "Lewis, Achmore",Neolithic / Bronze Age,Stone Circle,,131740,929260,WESTERN ISLES,http://canmore.org.uk/site/4232,58.010859,-4.4012554
-"Lewis, Glen Shader",Neolithic / Bronze Age,Stone Circle,"Standing Stone (Prehistoric), , Structure(S) (Period Unassigned)",139630,953670,WESTERN ISLES,http://canmore.org.uk/site/4268,57.974348,-3.945946
+"Lewis, Glen Shader",Neolithic / Bronze Age,Stone Circle,"Standing Stone (Prehistoric),, Structure(S) (Period Unassigned)",139630,953670,WESTERN ISLES,http://canmore.org.uk/site/4268,57.974348,-3.945946
 "Lewis, Clach Stei Lin",Neolithic / Bronze Age,Stone Circle,"Enclosure (Period Unassigned)",139694,954546,WESTERN ISLES,http://canmore.org.uk/site/4278,58.517959,-3.6154022
 "Lewis, Laxdale, Priest's Glen",Neolithic / Bronze Age,Stone Circle,,141110,935190,WESTERN ISLES,http://canmore.org.uk/site/4300,58.446389,-3.3321564
 Rosehall,Neolithic / Bronze Age,Stone Circle,,247000,902100,HIGHLAND,http://canmore.org.uk/site/4861,57.223247,-7.410248
