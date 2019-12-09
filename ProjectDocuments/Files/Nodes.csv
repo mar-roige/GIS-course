@@ -669,3 +669,11 @@ id,label,rank,x,y,cost,target,province,modern
 50799,Telos,70,27.366,36.433,0,0,Asia,Greece
 50800,Tenos,70,25.166,37.533,0,0,Graecia,Greece
 50801,Thera,70,25.433,36.417,0,0,Graecia,Greece
+50317,Portus,90,12.258,41.78,0,0,Italia,Italy
+50522,Aufidus,60,16.21,41.36,0,0,Italia,Italy
+50572,Rheneia,60,23.213,37.412,0,0,Graecia,Greece
+50457,Kriou Metopon,60,23.589,35.232,0,0,Crete,Greece
+50786,Kerea,60,25.75,36.75,0,0,Graecia,Greece
+50789,Lebinthos,60,24.459,37.005,0,0,Graecia,Greece
+50790,Leros,60,23.625,37.875,0,0,Graecia,Greece
+50792,Mykonos,60,25.37,37.44,0,0,Graecia,Greece
